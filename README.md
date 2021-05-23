@@ -7,13 +7,14 @@ Overall, I have 5+ years of experience as an IT Professional. Currently, I am pu
 
 <p>:technologist: I love to explore different skill sets and want to keep learning .
   
-My areas of expertise includes :eight_spoked_asterisk: Machine Learning, :eight_spoked_asterisk: Deep learning and :eight_spoked_asterisk: Data Visualization projects.</p>
+My areas of expertise includes :eight_spoked_asterisk: Machine Learning, :eight_spoked_asterisk: Deep learning and :eight_spoked_asterisk: Data Visualization.</p>
 
 I also love working with different technologies & platforms and my current favorite ones are
 - :heart: SQL 
 - :heart: Python
 - :heart: R
 - :heart: Tableau
+- :heart: Power BI 
 
 ----
 

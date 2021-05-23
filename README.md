@@ -1,5 +1,5 @@
 # Hello! <img src="https://raw.githubusercontent.com/ptyadana/ptyadana/master/wave.gif" width="30px">
-<p>I'm **Ruchil Barya**. 
+<p>I'm Ruchil Barya. 
   
 A SAP HANA/Business Intelligence Consultant turned into Data Enthusiast who loves to harness the power of data with the help of Statistical and Quantitative Data Analysis and gain meaningful insights to make key business decisions.
 Overall, I have 5+ years of experience as an IT Professional. Currently, I am pursuing Masters in Data Analytics and will graduate in August, 2021.</p>

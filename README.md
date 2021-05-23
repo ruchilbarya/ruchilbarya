@@ -1,22 +1,10 @@
 # Hello! <img src="https://raw.githubusercontent.com/ptyadana/ptyadana/master/wave.gif" width="30px">
-<p>I'm Ruchil Barya. 
+<p>I'm **Ruchil Barya**. 
   
 A SAP HANA/Business Intelligence Consultant turned into Data Enthusiast who loves to harness the power of data with the help of Statistical and Quantitative Data Analysis and gain meaningful insights to make key business decisions.
-Overall, I have 5+ years of experience as an IT Professional. Currently, I am pursuing Masters in Data Analytics and will graduate by 13th August 2021. (I can work as full-time employee from 9th June 2021)
+Overall, I have 5+ years of experience as an IT Professional. Currently, I am pursuing Masters in Data Analytics and will graduate in August, 2021.</p>
 
-Areas of interest : Machine learning, Time Series Forecasting, Text Analysis, Predictive Modeling, Natural Language processing, Deep Leaning, Big Data analytics (Spark, Mapreduce)
-
-Programming languages : R , Python (Pandas, Scikit-learn, NumPy, Matplotlib, Tensorflow, Keras), SQL 
-
-Databases : MySQL ,MongoDB
-
-Tools :Tableau, Power BI, AWS sagemaker 
-
-Previously , I have worked in Walldorf(Germany), and Bangalore(India) as a SAP Consultant. 
-
-I love to explore different skill sets and want to keep learning .</p>
-
-<p>:technologist: When I'm not at work consulting or managing projects, you can often find me coding, learning new stuff, and honing my skills on various areas including :eight_spoked_asterisk: Machine Learning, :eight_spoked_asterisk: Deep learning and :eight_spoked_asterisk: Data Visualization projects.</p>
+<p>:technologist: I love to explore different skill sets and want to keep learning . My skills on various areas including :eight_spoked_asterisk: Machine Learning, :eight_spoked_asterisk: Deep learning and :eight_spoked_asterisk: Data Visualization projects.</p>
 
 I also love working with different technologies & platforms and my current favorite ones are
 - :heart: SQL 

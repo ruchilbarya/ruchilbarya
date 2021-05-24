@@ -5,9 +5,7 @@ A SAP HANA/Business Intelligence Consultant turned into Data Enthusiast who love
 
 Overall, I have 5+ years of experience as an IT Professional. Currently, I am pursuing Masters in Data Analytics and will graduate in August, 2021.</p>
 
-<p>:technologist: I love to explore different skill sets and want to keep learning .
-  
-My areas of expertise includes :eight_spoked_asterisk: Machine Learning, :eight_spoked_asterisk: Deep learning and :eight_spoked_asterisk: Data Visualization.</p>
+<p>:technologist: My areas of expertise includes :eight_spoked_asterisk: Machine Learning, :eight_spoked_asterisk: Deep learning and :eight_spoked_asterisk: Data Visualization.</p>
 
 I also love working with different technologies & platforms and my current favorite ones are
 - :heart: SQL 
@@ -27,3 +25,5 @@ I also love working with different technologies & platforms and my current favor
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruchilbarya&layout=compact)](https://github.com/ruchilbarya/github-readme-stats)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ruchilbarya)
+
+I love to explore different skill sets and want to keep learning .

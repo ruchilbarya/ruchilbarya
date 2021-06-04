@@ -8,11 +8,7 @@ Overall, I have 5+ years of experience as an Business Intelligence Consultant.</
 <p>:technologist: My areas of expertise includes :eight_spoked_asterisk: Machine Learning, :eight_spoked_asterisk: Deep learning and :eight_spoked_asterisk: Data Visualization.</p>
 
 I also love working with different technologies & platforms and my current favorite ones are
-* SQL 
-* Python
-* R
-* Tableau
-* Power BI 
+* SQL * Python * R * Tableau * Power BI * MS Excel
 
 ----
 

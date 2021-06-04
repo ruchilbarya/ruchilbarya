@@ -8,7 +8,6 @@
 * Python 
 * R 
 * Tableau
-*  Power BI 
 ----
 #### 📬 Find me at
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ruchil-barya-1770867b/)](https://www.linkedin.com/in/ruchil-barya-1770867b/)

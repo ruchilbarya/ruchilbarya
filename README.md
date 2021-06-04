@@ -1,12 +1,11 @@
-# Hello! <img src="https://raw.githubusercontent.com/ptyadana/ptyadana/master/wave.gif" width="30px">
+## Hello! <img src="https://raw.githubusercontent.com/ptyadana/ptyadana/master/wave.gif" width="30px">
 <p>I'm Ruchil Barya. 
   
 A Data Enthusiast who loves to harness the power of data with the help of Statistical Analysis and gain meaningful insights to make key business decisions.
 
 Overall, I have 5+ years of experience as an Business Intelligence Consultant.</p>
 
-<p>:technologist: My areas of expertise includes :eight_spoked_asterisk: Machine Learning, :eight_spoked_asterisk: Deep learning and :eight_spoked_asterisk: Data Visualization. I love to explore different skill sets and want to keep learning .</p> 
-
+<p>:technologist: My areas of expertise includes :eight_spoked_asterisk: Machine Learning, :eight_spoked_asterisk: Deep learning and :eight_spoked_asterisk: Data Visualization. I enjoy exploring different skill sets and want to keep learning .</p> 
 ### Skills 
 * SQL * Python * R * Tableau * Power BI * MS Excel
 

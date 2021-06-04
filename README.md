@@ -5,11 +5,11 @@ A Data Enthusiast who loves to harness the power of data with the help of Statis
 
 Overall, I have 5+ years of experience as an Business Intelligence Consultant.</p>
 
-<p>:technologist: My areas of expertise includes :eight_spoked_asterisk: Machine Learning, :eight_spoked_asterisk: Deep learning and :eight_spoked_asterisk: Data Visualization.</p>
+<p>:technologist: My areas of expertise includes :eight_spoked_asterisk: Machine Learning, :eight_spoked_asterisk: Deep learning and :eight_spoked_asterisk: Data Visualization. I love to explore different skill sets and want to keep learning .</p> 
 
 ## Skills 
 * SQL * Python * R * Tableau * Power BI * MS Excel
-I love to explore different skill sets and want to keep learning .
+
 ----
 #### 📬 Find me at
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ruchil-barya-1770867b/)](https://www.linkedin.com/in/ruchil-barya-1770867b/)

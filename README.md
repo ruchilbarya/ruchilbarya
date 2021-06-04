@@ -3,10 +3,11 @@
   
 A Data Enthusiast who loves to harness the power of data with the help of Statistical Analysis and gain meaningful insights to make key business decisions.
 
-Overall, I have 5+ years of experience as an Business Intelligence Consultant.</p>
+Overall, I have 5+ years of experience as an Business Intelligence Consultant where I have worked with different clients worldwide.</p>
 
-<p>:technologist: My areas of expertise includes :eight_spoked_asterisk: Machine Learning, :eight_spoked_asterisk: Deep learning and :eight_spoked_asterisk: Data Visualization. I enjoy exploring different skill sets and want to keep learning .</p> 
-### Skills 
+<p>:technologist: My areas of expertise includes :eight_spoked_asterisk: Machine Learning, :eight_spoked_asterisk: Deep learning and :eight_spoked_asterisk: Data Visualization.</p> 
+
+## Skills 
 * SQL * Python * R * Tableau * Power BI * MS Excel
 
 ----

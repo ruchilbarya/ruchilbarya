@@ -1,15 +1,16 @@
 ## Hello! <img src="https://raw.githubusercontent.com/ptyadana/ptyadana/master/wave.gif" width="30px">
 <p>I'm Ruchil Barya. 
   
-A Data Enthusiast who loves to harness the power of data with the help of Statistical Analysis and gain meaningful insights to make key business decisions.
-
-Overall, I have 5+ years of experience as an Business Intelligence Consultant where I have worked with different clients worldwide.</p>
+A Data Enthusiast who loves to harness the power of data with the help of Statistical Analysis and gain meaningful insights to make key business decisions. Overall, I have 5+ years of experience as an Business Intelligence Consultant where I have worked with different clients worldwide.</p>
 
 <p>:technologist: My areas of expertise includes :eight_spoked_asterisk: Machine Learning, :eight_spoked_asterisk: Deep learning and :eight_spoked_asterisk: Data Visualization.</p> 
 
 ## Skills 
-* SQL * Python * R * Tableau * Power BI * MS Excel
-
+* SQL 
+* Python 
+* R 
+* Tableau
+*  Power BI 
 ----
 #### 📬 Find me at
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ruchil-barya-1770867b/)](https://www.linkedin.com/in/ruchil-barya-1770867b/)

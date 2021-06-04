@@ -22,8 +22,6 @@ I also love working with different technologies & platforms and my current favor
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/ruchilbarya)](https://github.com/ruchilbarya) 
 [![Rpubs Badge](http://img.shields.io/badge/-Rpubs-black?style=flat-square&logo=rpubs&link=https://rpubs.com/Ruchil)](https://rpubs.com/Ruchil) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruchilbarya&layout=compact)](https://github.com/ruchilbarya/github-readme-stats)
 
-![Profile Views](https://komarev.com/ghpvc/?username=ruchilbarya)
 
 I love to explore different skill sets and want to keep learning .

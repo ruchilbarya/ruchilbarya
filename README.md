@@ -1,4 +1,3 @@
-## Hello! <img src="https://raw.githubusercontent.com/ptyadana/ptyadana/master/wave.gif" width="30px">
 #### 📬 Find me at
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ruchil-barya-1770867b/)](https://www.linkedin.com/in/ruchil-barya-1770867b/)
 [![Tableau Badge](http://img.shields.io/badge/-Tableau-orange?style=flat-square&logo=tableau&logoColor=white&link=https://public.tableau.com/profile/ruchil.barya#!/)](https://public.tableau.com/profile/ruchil.barya#!/)

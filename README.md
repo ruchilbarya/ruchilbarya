@@ -1,6 +1,4 @@
 ## Hello! <img src="https://raw.githubusercontent.com/ptyadana/ptyadana/master/wave.gif" width="30px">
-<p>I am a data enthusiast who loves to harness the power of data with the help of Statistical Analysis and gain meaningful insights. Overall, I have 5 years of professional experience where I have worked with different clients worldwide.</p>
-
 #### 📬 Find me at
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ruchil-barya-1770867b/)](https://www.linkedin.com/in/ruchil-barya-1770867b/)
 [![Tableau Badge](http://img.shields.io/badge/-Tableau-orange?style=flat-square&logo=tableau&logoColor=white&link=https://public.tableau.com/profile/ruchil.barya#!/)](https://public.tableau.com/profile/ruchil.barya#!/)
